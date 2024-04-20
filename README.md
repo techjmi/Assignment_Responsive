@@ -8,10 +8,6 @@ This repository contains my solution for the assignment on responsive web design
 - **Responsive Design:** The web page is designed to be responsive and adapt to various screen sizes.
 - **Navigation:** Utilizes a responsive navigation menu for a user-friendly experience.
 
-## Screenshots
-
-Include screenshots or GIFs showcasing the responsive behavior of your website on different devices.
-
 ## How to Use
 
 Provide instructions on how to run or view your project locally.
